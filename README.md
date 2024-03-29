@@ -1,3 +1,3 @@
 # Snake
 
-Turn on auto mode with `a`.
+Hit `a` during game to turn on auto mode.
