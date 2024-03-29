@@ -20,7 +20,7 @@ using namespace std;
 
 struct Game
 {
-    virtual void start() { };
+    virtual void start() = 0;
     virtual ~Game() { }
 };
 
